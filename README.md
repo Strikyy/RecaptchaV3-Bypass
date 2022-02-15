@@ -6,6 +6,8 @@ call Bypass.getTk()
 
 Replace string by your postData and recaptcha URL
 
+Need nuget package Restsharp, Leaf.xNet, Colorful
+
 
 Why:
 
